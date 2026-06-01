@@ -1,4 +1,3 @@
-```c
 /******************************************************************************
  *
  * FILE:
@@ -245,4 +244,3 @@ uint32_t reminder_scheduler_failure_count(void);
 #endif
 
 #endif /* REMINDER_SCHEDULER_H */
-```
