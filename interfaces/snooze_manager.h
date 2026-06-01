@@ -1,4 +1,3 @@
-```c
 /******************************************************************************
  *
  * FILE:
@@ -242,4 +241,3 @@ uint32_t snooze_manager_failure_count(void);
 #endif
 
 #endif /* SNOOZE_MANAGER_H */
-```
