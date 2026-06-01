@@ -1,4 +1,3 @@
-```c
 /******************************************************************************
  *
  * FILE:
@@ -284,4 +283,3 @@ uint32_t reminder_state_invalid_transition_count(void);
 #endif
 
 #endif /* REMINDER_STATE_H */
-```
