@@ -1,4 +1,3 @@
-```c
 /******************************************************************************
  *
  * FILE:
@@ -248,4 +247,3 @@ uint32_t reminder_runtime_error_count(void);
 #endif
 
 #endif /* REMINDER_RUNTIME_H */
-```
